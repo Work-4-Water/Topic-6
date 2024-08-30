@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_66xyxP7yLQ8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6Pnfn2XXiNq" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="Work-4-Water_Topic_6_ORG">
     <organization identifier="Work-4-Water_Topic_6_ORG">
       <title>Work-4-Water Topic 6</title>
-      <item identifier="Topic_4_SCO" isvisible="true" identifierref="__66xyxP7yLQ8_RES">
+      <item identifier="Topic_4_SCO" isvisible="true" identifierref="__6Pnfn2XXiNq_RES">
         <title>Work-4-Water Topic 6</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__66xyxP7yLQ8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6Pnfn2XXiNq_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5oidMKcyAnu_P_113_0_1820_1368.jpg" />
       <file href="mobile/6IIKu9xjo1O_X_P_-3_537_1638_230.jpg" />
